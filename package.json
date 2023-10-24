@@ -12,7 +12,7 @@
     "@vanilla-extract/css": "1.9.1",
     "axios": "0.21.4",
     "jest": "25.5.4",
-    "lodash": "3.7.0",
+    "lodash": "4.17.21",
     "moment": "1.05",
     "react": "15.7.0",
     "rxjs": "5.5.12",
